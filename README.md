@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Lindsay from Michigan and I am a Frontend Software Developer. I have been enjoing learning fullstack with Node.js and MongoDB, but I have really been focusing on React. My passion is taking great web designs and bringing them to life for the user to have a great experience. 
+
+[![Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindsayRae)](https://github.com/lindsayRae/github-readme-stats)
 <!--
 **lindsayRae/lindsayRae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
