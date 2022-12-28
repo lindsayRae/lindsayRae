@@ -13,9 +13,11 @@ I'm Lindsay from Michigan and I am a Frontend Software Developer. I have been en
 
 ## Examples of Work
 <img src="https://www.edocew.com/assets/img/portfolio/list/myPRs624x360.webp" wdith="240">
-<img src="https://www.edocew.com/assets/img/portfolio/list/diaperBuddyShots624x360.png" wdith="240">
 ### MyPRs
 Moble web application to track gym prsonal records. Built with React, Node.js and MongoDB 
+<img src="https://www.edocew.com/assets/img/portfolio/list/diaperBuddyShots624x360.png" wdith="240">
+
+
 
 ## What I am up to
 - 🔭 I’m currently working on my own WebDev company called Edocew 
