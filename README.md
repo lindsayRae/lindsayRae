@@ -12,6 +12,7 @@ I'm Lindsay from Michigan and I am a Frontend Software Developer. I have been en
 
 
 ## Examples of Work
+<img src="" wdith="240">
 
 
 - 🔭 I’m currently working on my own WebDev company called Edocew 
