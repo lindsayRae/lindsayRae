@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Lindsay  
+#### Web Developer
+I'm Lindsay from Michigan and I am a Frontend Software Developer. I have been enjoing learning fullstack with Node.js and MongoDB, but I have really been focusing on React. My passion is taking great web designs and bringing them to life for the user to have a great experience.
 
-I'm Lindsay from Michigan and I am a Frontend Software Developer. I have been enjoing learning fullstack with Node.js and MongoDB, but I have really been focusing on React. My passion is taking great web designs and bringing them to life for the user to have a great experience. 
+Skills: REACT / JS / HTML / CSS / NODE.JS
+
+- 🔭 I’m currently working on this page. 
+
 
 [![Lindsay's GitHub stats](https://github-readme-stats.vercel.app/api?username=lindsayRae)](https://github.com/lindsayRae/github-readme-stats)
 <!--
