@@ -1,8 +1,18 @@
-### Hi there 👋, Lindsay  
-#### Web Developer
+# I'm Lindsay  
+## Web Developer
 I'm Lindsay from Michigan and I am a Frontend Software Developer. I have been enjoing learning fullstack with Node.js and MongoDB, but I have really been focusing on React. My passion is taking great web designs and bringing them to life for the user to have a great experience.
 
-Skills: REACT / JS / HTML / CSS / NODE.JS
+## Skills and Experience 
+* HTML
+* CSS
+* JavaScript
+* React
+* Node.js
+* MongoDB
+
+
+## Examples of Work
+
 
 - 🔭 I’m currently working on my own WebDev company called Edocew 
 - 🌱 I’m currently learning React, Next.js, and Strappi 
